@@ -1,0 +1,24 @@
+{
+  "name": "entrega-mensageria",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TASBRsoftw/Entrega-Mensageria.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TASBRsoftw/Entrega-Mensageria/issues"
+  },
+  "homepage": "https://github.com/TASBRsoftw/Entrega-Mensageria#readme",
+  "dependencies": {
+    "amqplib": "^0.10.9",
+    "express": "^5.1.0"
+  }
+}
